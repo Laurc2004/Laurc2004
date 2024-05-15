@@ -6,7 +6,7 @@ Hey there, welcome to my corner of GitHub! I'm Laurc2004, a learner and explorer
 [![Laurc2004's GitHub | Topics Through Time](https://stats.quine.sh/Laurc2004/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Laurc2004)
 
 ## 🌱 About My Growth
-Currently enrolled in a Bachelor's program focused on Internet of Things Engineering, with an expected graduation in 2025, I'm actively absorbing knowledge and gaining hands-on experience. My academic path at赣南医科大学, combined with practical projects, has equipped me with a solid foundation in programming.
+Currently enrolled in a Bachelor's program focused on Internet of Things Engineering, with an expected graduation in 2025, I'm actively absorbing knowledge and gaining hands-on experience. 
 
 ## 🛠️ Skill Set in Progress
 - **Java Enthusiast**: I'm passionate about Java and constantly learning its depths, from basics like collections and multithreading to more advanced topics like Lambda expressions and Stream API.
