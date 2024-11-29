@@ -1,38 +1,51 @@
-# 😊👋
+# 😊👋 Hello, welcome to my corner of GitHub!
 
-Hey there, welcome to my corner of GitHub! I'm Laurc2004, a learner and explorer on the fascinating journey of software development. While I'm far from considering myself a Java 'expert', I'm enthusiastic about continuously honing my skills in this ever-evolving field.
+```ts
+class Developer {
+  name: string = "Laurc2004";
+  interests: string[] = [
+    "React Ecosystem", 
+    "AI Applications", 
+    "Full-Stack Development"
+  ];
 
-## 📊 Exploring My Tech Journey
-[![Laurc2004's GitHub | Topics Through Time](https://stats.quine.sh/Laurc2004/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Laurc2004)
+  getIntro(): string {
+    return `${this.name} is a passionate developer who loves to explore the ${this.interests.join(", ")}.`;
+  }
 
-## 🌱 About My Growth
-Currently enrolled in a Bachelor's program focused on Internet of Things Engineering, with an expected graduation in 2025, I'm actively absorbing knowledge and gaining hands-on experience. 
+  whatAmIWorkingOn(): string {
+    return `Currently diving deep into the React ecosystem and AI tools to build smarter apps!`;
+  }
+}
 
-## 🛠️ Skill Set in Progress
-- **Java Enthusiast**: I'm passionate about Java and constantly learning its depths, from basics like collections and multithreading to more advanced topics like Lambda expressions and Stream API.
-- **Spring Framework Student**: I'm diving into the world of Spring Boot, Spring MVC, and MyBatis, trying to grasp the magic of IoC and AOP.
-- **Cloud-Native Curiosity**: I've started exploring Spring Cloud and the Alibaba microservices ecosystem, fascinated by how they enable scalability and resilience.
-- **Data Handling & Caching**: MySQL and Redis are tools I'm familiar with, and I'm always looking to improve my understanding of efficient data management.
-- **DevOps Adventurer**: Linux, Docker, Nginx, and my initial encounters with Jenkins have me excited about efficient deployments and CI/CD pipelines.
-- **Frontend Dabbler**: React18, TypeScript, and Ant Design Pro are technologies I'm starting to work with, aiming to create user-friendly interfaces.
-- **Python and Flask Sidekick**: I've dipped my toes into Python for backend tasks and Flask for creating APIs, broadening my tech arsenal.
+const me = new Developer();
+console.info(me.getIntro());
+console.debug(me.whatAmIWorkingOn());
+```
 
-## 📚 Learning Through Projects
-- **AI-BI Analytics Platform**: My contribution to a Spring Boot-based data analytics platform taught me about integrating AI, streamlining data analysis, and enhancing user experiences.
-- **OCR Online Recognition Platform**: This open-source project marked my first steps into a cross-language (Java & Python) solution, pushing me to apply DDD principles and microservices architecture.
+## 📊 My Tech Journey
+![Laurc's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurc2004&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurc2004&theme=graywhite&layout=compact)
 
-## 👥 Collaborative Spirit
-- I'm open to any opportunities to collaborate on projects that challenge me and allow me to grow, especially those involving AI, data processing, or full-stack development.
-- I believe in the power of teamwork and am eager to learn from others.
+## 🛠️ Skills in Progress
 
-## 💌 Connect with Me
-- **Email**: [liurc2004@outlook.com](mailto:liurc2004@outlook.com)
-- **Social Spaces**:
-  - [GitHub](https://github.com/Laurc2004)
-  - [Zhihu](https://www.zhihu.com/people/Liu2004/posts)
-  - [Bilibili](https://space.bilibili.com/352316297)
+### 💻 Programming
+[![Programming](https://skillicons.dev/icons?i=java,js,ts,py)](https://skillicons.dev)
 
-## 😄 A Fun Fact
-In my downtime, I enjoy sharing my learning journey with a small but growing community on Zhihu (3000+) and Bilibili (500+). I find joy in making technical concepts accessible and applying them creatively.
+### 🎨 Frontend Development
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind)](https://skillicons.dev)
 
-Remember, every great developer was once a beginner. I'm here to keep learning and contributing to this vibrant community. Let's embark on a learning adventure together! 🚀📚
+### 🗄️ Backend Development
+[![Backend](https://skillicons.dev/icons?i=nodejs,flask,spring,express)](https://skillicons.dev)
+
+### 📊 Databases & Cloud
+[![Databases & Cloud](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,rabbitmq,supabase,cloudflare,vercel)](https://skillicons.dev)
+
+### ⚙️ DevOps & Tools
+[![DevOps & Tools](https://skillicons.dev/icons?i=git,github,githubactions,pnpm,nginx,docker,grafana,prometheus,pycharm,webstorm,idea)](https://skillicons.dev)
+
+## 💌 Let's Connect!
+
+  - [![Email](https://img.shields.io/badge/Email-teal.svg?&style=for-the-badge&logoColor=gray)](mailto:liurc2004@outlook.com)
+  - [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Laurc2004)
+  - [![Zhihu](https://img.shields.io/badge/Zhihu-blue.svg?&style=for-the-badge&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/Liu2004)
