@@ -30,19 +30,19 @@ console.debug(me.whatAmIWorkingOn());
 ## 🛠️ Skills in Progress
 
 ### 💻 Programming
-[![Programming](https://skillicons.dev/icons?i=java,js,ts,py&theme=light)](https://github.com/Laurc2004)
+[![Programming](https://skillicons.dev/icons?i=java,js,ts,py)](https://github.com/Laurc2004)
 
 ### 🎨 Frontend Development
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=light)](https://github.com/Laurc2004)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind)](https://github.com/Laurc2004)
 
 ### 🗄️ Backend Development
-[![Backend](https://skillicons.dev/icons?i=nodejs,flask,spring,express&theme=light)](https://github.com/Laurc2004)
+[![Backend](https://skillicons.dev/icons?i=nodejs,flask,spring,express)](https://github.com/Laurc2004)
 
 ### 📊 Databases & Cloud
-[![Databases & Cloud](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,rabbitmq,supabase,cloudflare,vercel&theme=light)](https://github.com/Laurc2004)
+[![Databases & Cloud](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,rabbitmq,supabase,cloudflare,vercel)](https://github.com/Laurc2004)
 
 ### ⚙️ DevOps & Tools
-[![DevOps & Tools](https://skillicons.dev/icons?i=git,github,githubactions,npm,pnpm,vite,nginx,docker,grafana,prometheus,linux,ubuntu,pycharm,webstorm,idea&theme=light)](https://github.com/Laurc2004)
+[![DevOps & Tools](https://skillicons.dev/icons?i=git,github,githubactions,npm,pnpm,vite,nginx,docker,grafana,prometheus,linux,ubuntu,pycharm,webstorm,idea)](https://github.com/Laurc2004)
 
 ## 💌 Let's Connect!
 
