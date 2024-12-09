@@ -24,8 +24,8 @@ console.debug(me.whatAmIWorkingOn());
 ```
 
 ## 📊 My Tech Journey
-![Laurc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laurc2004&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laurc2004&theme=graywhite&layout=compact)
+![Laurc's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurc2004&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurc2004&theme=graywhite&layout=compact)
 
 ## 🛠️ Skills in Progress
 
